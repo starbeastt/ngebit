@@ -14,7 +14,7 @@ def main():
     """Main function."""
     router_ip = '192.168.8.1'
     username = 'admin'
-    password = 'admin123'
+    password = 'JAGE011TFRT'
 
     connection_url = f'http://{username}:{password}@{router_ip}/'
 
