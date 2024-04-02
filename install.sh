@@ -43,7 +43,7 @@ download_files()
 	clear
   	echo "Downloading files from repo..."
    	rm -f $DIR/mbit && wget -O $DIR/mbit https://raw.githubusercontent.com/starbeastt/ngebit/main/usr/bin/mbit && chmod +x $DIR/mbit
- 	rm -f $DIR/orbit.py && wget -O $DIR/orbit.py https://raw.githubusercontent.com/aryobrokolly/ngebit/main/usr/bin/orbit.py && chmod +x $DIR/orbit.py
+ 	rm -f $DIR/orbit.py && wget -O $DIR/orbit.py https://raw.githubusercontent.com/starbeastt/ngebit/main/usr/bin/orbit.py && chmod +x $DIR/orbit.py
     	finish
 }
 
